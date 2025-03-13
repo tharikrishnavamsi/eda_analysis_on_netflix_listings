@@ -29,7 +29,7 @@ let's walk through the code step by step.
   - tv shows: number of seasons (e.g., "2 seasons").
 - we extract numeric values for both using custom functions and convert `duration` to numeric type.
 
-### **Data Visualization**
+### **data visualization**
 - **boxplots**:
   - movie durations (in minutes).
   - tv show durations (in seasons).
